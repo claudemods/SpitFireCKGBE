@@ -4,5 +4,5 @@ new theme new twist
 
 minimal stable channel apps
 
- ![Screenshot_cachyos-build_2025-06-02_22:30:54](https://github.com/user-attachments/assets/63c504cb-15f9-4675-985a-f32543c3f0e8)
+![Screenshot_cachyos-build_2025-06-02_22:42:13](https://github.com/user-attachments/assets/64223549-db4d-4cbe-bdf6-75282a7978f5)
 
